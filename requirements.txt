@@ -5,5 +5,4 @@ numpy
 matplotlib
 pyyaml
 lightgbm
-matplotlib
 networkx
